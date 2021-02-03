@@ -8,6 +8,11 @@ p {
 
 }
 
+ p{
+   font-size: 6vw;
+        
+}
+
 h1 {
   margin: 6.5625rem 3.8125rem;
   width: 89%;
