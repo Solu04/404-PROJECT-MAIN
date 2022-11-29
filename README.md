@@ -1,2 +1,2 @@
-# 404-PROJECT2-
+# 404-PROJECT-MAIN-
 Responsive challenge by devchallenges.io
